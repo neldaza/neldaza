@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey!
+
+[![Nelson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neldaza)](https://github.com/neldaza/github-readme-stats)
+
+• Current Stack:  HTML, CSS, JavaScript, React.js, Node.js, SQL, Express.js
+• Tools:  PostgreSQL, Bootstrap, npm, React-Bootstrap, Webpack, Browserify, Argon, Git, GitHub, Slack 
 
 <!--
 **neldaza/neldaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
