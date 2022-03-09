@@ -21,6 +21,20 @@ I'm truly grateful for the oppurtunity of being able to finally pursue a stable 
 
 Making things that work, is **AWESOME**.
 
+
+Quick Trivia about Me:
+
+- I lived in California on my own for about 4 years but just recently moved back to New York
+- I love nature, and landscapes
+- I love playing Xbox, and video games in general to be honest
+- I love shonen anime
+- I had a quick speaking role in the Netflix show "Dead to Me"
+
+## Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/nelsondaviddaza/)
+
+
       
 
 <!--
