@@ -10,7 +10,7 @@
 
 Hi!  My name is Nelson, and I'm currently a full stack web developer who is currently very familiar with HTML, CSS, JavaScript, React.js, Node.js, SQL, and Express.js
 
-Busser → Bar Back → Freelancer → Bouncer → Line Cook → Event Rigger → Maintenance → Restaurant Server → Actor → Web Developer
+Bar Back → Freelancer → Bouncer → Line Cook → Event Rigger → Maintenance → Restaurant Server → Actor → Web Developer
 
 ⏫ My Journey
 
