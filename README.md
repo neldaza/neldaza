@@ -2,7 +2,7 @@
 
 [![Nelson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neldaza)](https://github.com/neldaza/github-readme-stats)
 
-- 💻 Current Stack:  HTML, CSS, JavaScript, React.js, Node.js, SQL, Express.js
+- 💻 Current Stack:  TypeScript, React, Redux, HTML, CSS, JavaScript, Node.js, SQL, Express.js
 - 🛠 Tools:  Atlassian Suite, Jenkins, PostgreSQL, Bootstrap, npm, React-Bootstrap, webpack, jsonwebtoken, HTTPie, Browserify, eslint, Argon, Figma, babel, nodemon, pgweb, VSCode, Git, GitHub, Slack 
 - 📚 Always open to learning anything new!
 
