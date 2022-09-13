@@ -8,7 +8,7 @@
 
 ### About Me
 
-Hi!  My name is Nelson, and I'm currently a full stack web developer (with front-end focus) who is very familiar with HTML, CSS, JavaScript/TypeScript, React.js, Redux,  Node.js, SQL, and Express.js
+Hi!  My name is Nelson, and I'm currently a full stack web developer (with front-end focus) who is very familiar with TypeScript, React, Redux, JavaScript. jQuery, HTML, CSS, Node.js, SQL, and Express.js
 
 Bar Back → Freelancer → Bouncer → Line Cook → Event Rigger → Maintenance → Restaurant Server → Actor → Web Developer
 
