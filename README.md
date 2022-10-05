@@ -17,7 +17,7 @@ Bar Back → Freelancer → Bouncer → Line Cook → Event Rigger → Maintenan
 Years of hard work, and reevaluation have come to a head, and have spoken.  
 Downtime due to quarantine helped me pick up an interest in web development and is what ultimately lead to my decision of pursuing an education and career based in it - and I haven't looked back.  
 
-I'm truly grateful for the oppurtunity of being able to finally pursue a stable profession, and am even more grateful that I truly enjoy the satisfaction that comes with development and coding in general.  
+I'm truly grateful for the opportunity of being able to finally pursue a stable profession, and am even more grateful that I truly enjoy the satisfaction that comes with development and coding in general.  
 
 Making things that work, is ✨ **AWESOME**. ✨
 
