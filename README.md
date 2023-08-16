@@ -1,5 +1,6 @@
 ### 👋🏽 Hey! 
 
+
 - 💻 Current Stack:  TypeScript, React, Redux, HTML, CSS, JavaScript, Node.js, SQL, Express.js
 - 🛠 Tools:  Atlassian Suite, Jenkins, PostgreSQL, Bootstrap, npm, React-Bootstrap, webpack, jsonwebtoken, HTTPie, Browserify, eslint, Argon, Figma, babel, nodemon, pgweb, VSCode, Git, GitHub, Slack 
 - 📚 Always open to learning anything new!
